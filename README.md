@@ -1,5 +1,18 @@
-# Create Next Partner Skill - 创建理想伴侣Skill
+# 下一任.Skill
+> _"那些没说完的话，没解开的误会"_
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.9%2B-3776ab.svg)](https://python.org)
+[![Claude Code](https://img.shields.io/badge/Claude_Code-Skill-D97706.svg)]()
+[![AgentSkills](https://img.shields.io/badge/AgentSkills-Standard-6366f1.svg)]()
+
+---
+你们在一起三年，分手只用了三十分钟？
+你翻着聊天记录，却越来越想不起他说话时的样子？
+你想再问他一句「你当时到底是什么意思」，却再也没有机会？
+你知道那段感情里有什么没说完，但你不知道从哪里开口？
+
+**但这一次，你可以把未竟的告别，化为对未来的温柔期待。**
 基于前任经验，智能生成你的理想下一任伴侣Skill。
 
 ## 核心理念
